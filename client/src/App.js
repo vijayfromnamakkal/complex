@@ -6,8 +6,9 @@ import OtherPage from './OtherPage';
 import Fib from './Fib';
 
 function App() {
-    <Router>
+
   return (
+        <Router>
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
